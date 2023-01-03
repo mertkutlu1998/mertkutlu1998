@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert Kutlu</h1>
 <h3 align="center">I'm an Electronics and Communication Engineer and Backend Developer. I live in Istanbul. I'm learning C# & .NET Mvc5 & Sql & Html & Css & Javascript</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
