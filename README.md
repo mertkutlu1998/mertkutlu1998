@@ -13,3 +13,4 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mertkutlu1998&show_icons=true&theme=gradient) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertkutlu1998&hide=javascript,css,scss,html&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertkutlu1998&layout=compact"/>
