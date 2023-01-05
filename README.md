@@ -1,3 +1,6 @@
+
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nemonet-🔰-TYP&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Mert Kutlu</h1>
 <h3 align="center">I'm an Electronics and Communication Engineer and Backend Developer. I live in Istanbul. I'm learning C# & .NET Mvc5 & Sql & Html & Css & Javascript & .NET Core</h3>
