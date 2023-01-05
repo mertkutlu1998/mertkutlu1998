@@ -18,6 +18,5 @@
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mertkutlu1998&show_icons=true&theme=gradient) 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertkutlu1998&layout=compact"/>
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertkutlu1998&layout=compact"/> <br>
 <img width=100% title="Mert Kutlu" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
