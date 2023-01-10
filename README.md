@@ -20,3 +20,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mertkutlu1998&layout=compact"/>
 
 <img width=100% title="Mert Kutlu" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/mertkutlu1998/count.svg" />
+</p>
